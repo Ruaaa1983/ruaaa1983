@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Ruaaa1983/ruaaa1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# <Hi Ethereum!/>
+![Visitor Count](https://profile-counter.glitch.me/Ruaaa1983/count.svg)
+# :open_mouth:我是谁?
+~~如你所见，我是一个以太坊的粉丝~~
+- :fearful:就读于北京市朝阳区看守所
+- :star:正在学习Go语言和区块链开发
+- :thumbsup:最喜欢的娱乐:炉石传说
+- :wink:你也许会喜欢? ruaaa.cloud
+# :ear:在哪里能找到我捏?
+- ：love_letter:Proton Mail>>>michaeliu1983@proton.me
