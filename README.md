@@ -8,3 +8,6 @@
 - :wink:你也许会喜欢? ruaaa.cloud
 # :ear:在哪里能找到我捏?
 - ：love_letter:Proton Mail>>>michaeliu1983@proton.me
+# :smiley_cat:关于这个懒狗
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruaaa1983)](https://github.com/Ruaaa1983/github-readme-stats)
+![Ruaaa1983's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruaaa1983&show_icons=true&theme=tokyonight)
