@@ -11,7 +11,7 @@
 - Telegram>>>@ruaaabnl
 - GitHub>>>Ruaaa1983
 # **:smiley_cat:关于这个懒狗**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruaaa1983)](https://github.com/Ruaaa1983/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruaaa1983)](https://github.com/Ruaaa1983)
 ![Ruaaa1983's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruaaa1983&show_icons=true&theme=tokyonight)
 # ~~:kiss:想要吃肯德基~~
 - **Ethereum** 0xeA9063a891BF3Eb3DeEa0E5595E9155B035624bB
