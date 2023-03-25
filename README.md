@@ -10,6 +10,7 @@
 - Proton Mail>>>michaeliu1983@proton.me
 - Telegram>>>@ruaaabnl
 - GitHub>>>Ruaaa1983
+- 如果您感兴趣的话您可以了解一下我们的组织：平安金融。平安金融涉及区块链代码审计，基础设施提供，推广等工作，为您的Web 3之旅保驾护航。
 # **:smiley_cat:关于这个懒狗**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruaaa1983)](https://github.com/Ruaaa1983)
 ![Ruaaa1983's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruaaa1983&show_icons=true&theme=tokyonight)
@@ -17,6 +18,6 @@
 - **Ethereum** 0xeA9063a891BF3Eb3DeEa0E5595E9155B035624bB
 - **BitCoin**  38XUPN6kigeKn1t4JT3gbxAUG8pjdzdfQX
 - **Tron**     TEsdHb8Y418yuVj5mh1sB1zopmrzJe4A1V
-## ✴️目前正在进行的项目
-1. 由Go语言编写，建立在Ethereum的Layer2网络。
-2. BitEco绿色护航计划
+## ✴️目前正在进行的项目/目标
+1. 由Go语言编写，建立在Ethereum的Layer2网络（BitEcoChain）。
+2. BitEco绿色护航计划。
