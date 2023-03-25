@@ -17,3 +17,6 @@
 - **Ethereum** 0xeA9063a891BF3Eb3DeEa0E5595E9155B035624bB
 - **BitCoin**  38XUPN6kigeKn1t4JT3gbxAUG8pjdzdfQX
 - **Tron**     TEsdHb8Y418yuVj5mh1sB1zopmrzJe4A1V
+## ✴️目前正在进行的项目
+1. 由Go语言编写，建立在Ethereum的Layer2网络。
+2. BitEco绿色护航计划
